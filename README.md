@@ -41,7 +41,7 @@
 
 ## 🧩 3D模型图
 <p align="center">
-![Uploading image.png…]()
+<img width="1222" height="1035" alt="image" src="https://github.com/user-attachments/assets/00b0c249-de60-4d6a-b534-79c43c212fbd" />
 <br><br>
 <img width="520" src="https://github.com/user-attachments/assets/47f8871a-45c5-4cee-a835-f4c2d20a0a54">
 </p>
