@@ -41,16 +41,9 @@
 
 ## 🧩 3D模型图
 <p align="center">
-<img width="520" src="https://github.com/user-attachments/assets/3b7e4003-4353-4b21-9436-f5070ac06aa0">
+![Uploading image.png…]()
 <br><br>
 <img width="520" src="https://github.com/user-attachments/assets/47f8871a-45c5-4cee-a835-f4c2d20a0a54">
-<br><br>
-<img width="520" src="https://github.com/user-attachments/assets/611a3316-1948-43f1-ab2f-8f96e7df4fc5">
 </p>
 
----
-### ✨ 高级美化页面（GitHub Pages）
-想要之前那种卡片画廊、暗黑主题完整HTML页面：
-1. 在仓库新建文件 `index.html`，粘贴我之前输出的完整HTML代码
-2. 仓库设置 → Pages，开启GitHub Pages服务
-3. 在本README顶部增加跳转链接：
+
