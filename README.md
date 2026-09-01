@@ -15,11 +15,3 @@ PCB
 <img width="1279" height="1453" alt="image" src="https://github.com/user-attachments/assets/3b7e4003-4353-4b21-9436-f5070ac06aa0" />
 <img width="1279" height="1453" alt="image" src="https://github.com/user-attachments/assets/47f8871a-45c5-4cee-a835-f4c2d20a0a54" />
 <img width="1279" height="1453" alt="image" src="https://github.com/user-attachments/assets/611a3316-1948-43f1-ab2f-8f96e7df4fc5" />
-
-
-
-
-
-
-
-
